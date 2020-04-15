@@ -1,0 +1,4 @@
+# Autonomous-Vehicle-Safety-Analysis
+This project explores failures and disengagements in Autonomous Vehicles (AVs) being tested on public roads in California. The dataset you will be using however, while derived from the California Department of Motor Vehicles (DMV) database, has been sufficiently altered to be manageable for this project. As such, the results of the analysis you perform will not directly represent the California study. The analysis will use statistical and probabilistic approaches to evaluate how well the AI-driven decision and control of AVs works under a variety of conditions and developing insights into why/how they disengage. Later, a Naive Bayes model was developed to predict the cause of disengagement based on the features: location, weather and type of trigger.
+
+For more detail, please go through 'mp1_doc.pdf' file
