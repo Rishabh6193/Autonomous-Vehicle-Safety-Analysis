@@ -9,6 +9,6 @@ Conditional Probability, Bayes formula)
 4. Create a Naive Bayes model to classify data based on features (e.g., weather
 conditions) in the dataset
 
-This project did not used any python libraries. Instead, the Naive Bayes model was developed based on the calculation of conditional probabilty tables and prior probability table.
+This project did not use any python libraries. Instead, the Naive Bayes model was developed based on the calculation of conditional probabilty and prior probability table.
 
 For more detail, please go through 'mp1_doc.pdf' file
